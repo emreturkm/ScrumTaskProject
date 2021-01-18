@@ -1,0 +1,59 @@
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\bin\Debug\Dapper.dll
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\bin\Debug\MaterialSkin.dll
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\bin\Debug\Dapper.xml
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.Scrum.resources
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.TeknikKart.resources
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.Properties.Resources.resources
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.GenerateResource.cache
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CopyComplete
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\source\repos\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\bin\Debug\Dapper.dll
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\bin\Debug\MaterialSkin.dll
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\bin\Debug\Dapper.xml
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.Scrum.resources
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.TeknikKart.resources
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.Properties.Resources.resources
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CopyComplete
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.exe
+C:\Users\ahmet\Desktop\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\bin\Debug\Dapper.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\bin\Debug\MaterialSkin.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\bin\Debug\Dapper.xml
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.Scrum.resources
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.TeknikKart.resources
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.Properties.Resources.resources
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.csproj.CopyComplete
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\obj\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\bin\Debug\Dapper.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\bin\Debug\MaterialSkin.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\bin\Debug\Dapper.xml
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.Scrum.resources
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.TeknikKart.resources
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.Properties.Resources.resources
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CopyComplete
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.pdb

@@ -1,0 +1,36 @@
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\WhiteBoxTest.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\WhiteBoxTest.pdb
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\MaterialSkin.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\obj\Debug\WhiteBoxTest.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\obj\Debug\WhiteBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\obj\Debug\WhiteBoxTest.csproj.CopyComplete
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\obj\Debug\WhiteBoxTest.dll
+C:\Users\emret\Desktop\YazilimSinamaFinalProjeTestliSon\WhiteBoxTest\obj\Debug\WhiteBoxTest.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\WhiteBoxTest.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\WhiteBoxTest.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\MaterialSkin.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\obj\Debug\WhiteBoxTest.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\obj\Debug\WhiteBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\obj\Debug\WhiteBoxTest.csproj.CopyComplete
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\obj\Debug\WhiteBoxTest.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\WhiteBoxTest\obj\Debug\WhiteBoxTest.pdb
