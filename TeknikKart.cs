@@ -14,9 +14,15 @@ namespace YazilimSinamaFinalProje
 {
     public partial class TeknikKart : MaterialSkin.Controls.MaterialForm
     {
+        /// <summary>
+        /// Class içinde kullanilacak gerekli değişkenler oluşturuluyor.
+        /// </summary>
         public static string connectionSource = Properties.Settings.Default.ScrumTaskBoardProjectConnectionString;
         SqlConnection baglanti = new SqlConnection(connectionSource);
         MaterialSkinManager skinManager;
+        List<String> taskNames = new List<String>();
+        RadioButton selectedRB;
+        string eskiTaskAdi;
         public TeknikKart()
         {
             InitializeComponent();
@@ -25,9 +31,9 @@ namespace YazilimSinamaFinalProje
             skinManager.Theme = MaterialSkinManager.Themes.LIGHT;
             skinManager.ColorScheme = new ColorScheme(Primary.Blue600, Primary.Blue900, Primary.Blue900, Accent.LightBlue200, TextShade.BLACK);
         }
-        List<String> taskNames = new List<String>();
-        RadioButton selectedRB;
-        string eskiTaskAdi;
+        /// <summary>
+        /// teknik kart formu açıldığında çalışan method.
+        /// <summary>
         private void TeknikKart_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'scrumTaskBoardProjectDataSet.tblUsers' table. You can move, or remove it, as needed.
@@ -41,8 +47,9 @@ namespace YazilimSinamaFinalProje
             //listView'e veritabanındaki kartları listeliyor
             listViewListele();
         }
-
-        //veritabanında herhangi bir değişiklik sonrası listview'a yeni verileri listeleyen method.
+        /// <summary>
+        /// veritabanında herhangi bir değişiklik sonrası listview'a yeni verileri listeleyen method.
+        /// <summary>
         public void listViewListele()
         {
             listView1.Items.Clear();
@@ -76,7 +83,9 @@ namespace YazilimSinamaFinalProje
                 throw;
             }
         }
-
+        /// <summary>
+        /// ekle butonuna tıklandığı an çalışan method.
+        /// <summary>
         private void btnEkle_Click(object sender, EventArgs e)
         {
             if (!textBoxIsEmpty())
@@ -140,7 +149,9 @@ namespace YazilimSinamaFinalProje
                 MessageBox.Show("Lütfen boş kutucuk bırakmayınız.");
             }
         }
-        //güncelle butonuna tıklandığında çalışacak method
+        /// <summary>
+        /// güncelle butonuna tıklandığında çalışacak method
+        /// <summary>
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
             if (!textBoxIsEmpty() && lblKartNo.Text != "-")//boş textbox var mı ve listbox'dan kart seçilmiş mi diye kontrol ediliyor.
@@ -209,7 +220,9 @@ namespace YazilimSinamaFinalProje
             }
 
         }
-        //boş textBox var mı kontrolü yapılıyor.
+        /// <summary>
+        /// boş textBox var mı kontrolü yapan method.
+        /// <summary>
         private bool textBoxIsEmpty()
         {
             foreach (Control item in this.Controls)
@@ -225,7 +238,9 @@ namespace YazilimSinamaFinalProje
             }
             return false;
         }
-        //ismine göre task bilgileri ekrana yazdırılıyor.
+        /// <summary>
+        /// ismine göre task bilgilerini ekrana yazdıran method.
+        /// <summary>
         public void ismeGoreVeriGetir(string taskName)
         {
             try
@@ -264,8 +279,9 @@ namespace YazilimSinamaFinalProje
                 throw;
             }
         }
-
-        //listView'de item değişikliği olduğu an çalışan method.
+        /// <summary>
+        /// listView'de item değişikliği olduğu an çalışan method.
+        /// <summary>
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (listView1.SelectedItems.Count < 1)//eğer herhangi bir item seçilmeyip boşluğa tıklandıysa ekranı sıfırlıyor.
@@ -278,8 +294,9 @@ namespace YazilimSinamaFinalProje
                 ismeGoreVeriGetir(listView1.SelectedItems[0].SubItems[3].Text);
             }
         }
-
-        //ekrandaki verileri sıfırlıyor.
+        /// <summary>
+        /// ekrandaki verileri sıfırlayan method.
+        /// <summary>
         private void formTemizle()
         {
             //belirlenen default değerler atılıyor.
@@ -298,7 +315,9 @@ namespace YazilimSinamaFinalProje
                 }
             }
         }
-        //scrum sayfasına geçiş.
+        /// <summary>
+        /// geri ok tuşuna basıldığı an çalışan method.(scrum formuna geçiş)
+        /// <summary>
         private void btnGeri_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -306,14 +325,18 @@ namespace YazilimSinamaFinalProje
             scrm.Closed += (s, args) => this.Close();
             scrm.Show();
         }
-        //iş açıklamasındaki metin uzunluğuna göre tahmini süreye ekleme yapıyor.
+        /// <summary>
+        /// iş açıklamasındaki metin uzunluğuna göre tahmini süreye ekleme yapan method.
+        /// <summary>
         private void txtBoxIsAciklamasi_TextChanged(object sender, EventArgs e)
         {
             int aciklamaTahminiSuresi;
             aciklamaTahminiSuresi = (Convert.ToInt32(txtBoxIsAciklamasi.TextLength) / 40) + 1;//açıklama uzunluğuna göre tahmini açıklama süresi oluşturuyor.
             lblTahminiSure.Text = (Convert.ToInt32(selectedRB.Tag) + aciklamaTahminiSuresi).ToString();//oluşturulan tahmini açıklama süresi iş içeriğinin süresine eklenip tahmini süre label'ına yazdırılıyor.
         }
-        //iş içeriğinde yaptığımız değişikliğe göre tahmini süreyi güncelliyor.
+        /// <summary>
+        /// iş içeriğinde yaptığımız değişikliğe göre tahmini süreyi güncelleyen method.
+        /// <summary>
         private void radioButton_CheckedChanged(object sender, EventArgs e)
         {
             RadioButton rdoBtn = sender as RadioButton;

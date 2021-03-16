@@ -14,7 +14,6 @@ namespace scrumUnitTest1
             Scrum scrum = new Scrum();
             int result = scrum.stateId; // Program ilk calistıgında stateId==0 olmalı.
             Assert.AreEqual(0, result);
-
         }
 
         [TestMethod]

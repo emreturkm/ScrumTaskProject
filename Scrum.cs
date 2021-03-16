@@ -14,6 +14,9 @@ namespace YazilimSinamaFinalProje
 {
     public partial class Scrum : MaterialSkin.Controls.MaterialForm
     {
+        /// <summary>
+        /// Class içinde kullanilacak gerekli parametreler oluşturuluyor.
+        /// </summary>
         public int stateId;
         public static string connectionSource = Properties.Settings.Default.ScrumTaskBoardProjectConnectionString;
         SqlConnection baglanti = new SqlConnection(connectionSource);
@@ -29,6 +32,9 @@ namespace YazilimSinamaFinalProje
         public int selectedIndex;
         public bool selected = false;
         ListBox eskiListBox = new ListBox();
+        /// <summary>
+        /// Scrum form ekranı yüklendiği an çalışacak method.
+        /// </summary>
         private void Scrum_Load(object sender, EventArgs e)
         {
             //ekran boyutunu ayarlıyor.
@@ -39,7 +45,9 @@ namespace YazilimSinamaFinalProje
             listBoxDoldur();
 
         }
-        //ekranda herhangi bir değişiklik olduğunda ekrana veritabanından güncellenmiş verileri çekiyor.
+        /// <summary>
+        ///ekranda herhangi bir değişiklik olduğunda ekrana veritabanından güncellenmiş verileri çeken method.
+        /// </summary>
         public void listBoxDoldur()
         {
             foreach (Control item in this.Controls)
@@ -71,7 +79,9 @@ namespace YazilimSinamaFinalProje
                 throw;
             }
         }
-        //Listboxtaki seçilen verinin sırasını sira değişkenine atıyor.
+        /// </summary>
+        /// Listboxtaki seçilen verinin sırasını sira değişkenine atan method.
+        /// </summary>
         private void aktarmaMouseDown(MouseEventArgs e, ListBox lstbox)
         {
             Point nokta = new Point(e.X, e.Y);
@@ -86,8 +96,9 @@ namespace YazilimSinamaFinalProje
                 }
             }
         }
-
-        //Listboxtaki seçilen verinin sürüklenmesine yariyor.
+        /// </summary>
+        /// Listboxtaki seçilen verinin sürüklenmesini sağlayan method.
+        /// </summary>
         private void aktarmaDragOver(DragEventArgs e)
         {
             if (e.KeyState == 1)
@@ -95,8 +106,9 @@ namespace YazilimSinamaFinalProje
                 e.Effect = DragDropEffects.Move;
             }
         }
-
-        //sürüklenen veriyi bıraktığımız anda çalışan method(listboxlardan veri ekleme veri silme işlemi yapıyor).
+        /// </summary>
+        /// sürüklenen veriyi bıraktığımız anda çalışan method(listboxlardan veri ekleme veri silme işlemi yapıyor).
+        /// </summary>
         private void aktarmaDragDrop(DragEventArgs e, ListBox lstbxEski, ListBox lstbxYeni)
         {
             //itemin yeni konumunu belirliyor
@@ -127,19 +139,24 @@ namespace YazilimSinamaFinalProje
             lstbxEski.Items.RemoveAt(selectedIndex);
             selected = false;
         }
-
-        //listbox'a bastığımız an çalışan method
+        /// </summary>
+        /// listbox'lara bastığımız an çalışan method
+        /// </summary>
         private void listBox_MouseDown(object sender, MouseEventArgs e)
         {
             eskiListBox = sender as ListBox;
             aktarmaMouseDown(e, eskiListBox);//üstüne tıkladığımız listbox'ın ve mouse'umuzun özellikleri gönderiliyor
         }
-        //listbox'tan başka bir yere sürüklerken çalışan method
+        /// </summary>
+        /// listbox'tan başka bir yere sürüklerken çalışan method
+        /// </summary>
         private void listBox_DragOver(object sender, DragEventArgs e)
         {
             aktarmaDragOver(e);
         }
-        //sürüklediğimiz itami başka bir listbox'a bıraktığımız an çalışan method
+        /// </summary>
+        /// sürüklediğimiz itami başka bir listbox'a bıraktığımız an çalışan method
+        /// </summary>
         private void listBox_DragDrop(object sender, DragEventArgs e)
         {
             if (eskiListBox != sender as ListBox)
@@ -148,6 +165,9 @@ namespace YazilimSinamaFinalProje
             }
         }
 
+        /// </summary>
+        /// kart adı parametresi alıp açıklama kısmına kartın açıklamasını yazdıran method.
+        /// </summary>
         public void ismeGoreAciklamaGetir(String taskName)
         {
             //seçilen task'ın ismine göre ekranın sol altında bulunan açıklama label'ına açıklaması yazdırılıyor
@@ -171,7 +191,9 @@ namespace YazilimSinamaFinalProje
             }
 
         }
-
+        /// </summary>
+        /// kart ekle butonuna tıklandığı an çalışan method.
+        /// </summary>
         private void btnEkle_Click(object sender, EventArgs e)
         {
             //yeni kart eklemek için teknik kart ekranına geçiş yapılıyor
@@ -180,6 +202,9 @@ namespace YazilimSinamaFinalProje
             tknkKrt.Closed += (s, args) => this.Close();
             tknkKrt.Show();
         }
+        /// </summary>
+        /// kartı güncelle butonuna tıklandığı an çalışan method.
+        /// </summary>
         private void btnGuncelle_Click(object sender, EventArgs e)
         {
             if (selected)//eger listboxlardan task seçildiyse işlem yapabilecek
@@ -197,6 +222,9 @@ namespace YazilimSinamaFinalProje
             }
 
         }
+        /// </summary>
+        /// kartı sil butonuna tıklandığı an çalışan method.
+        /// </summary>
         private void btnSil_Click(object sender, EventArgs e)
         {
 

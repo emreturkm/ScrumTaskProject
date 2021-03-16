@@ -57,3 +57,18 @@ C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\ob
 C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.csproj.CopyComplete
 C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.exe
 C:\Users\emret\Desktop\Yazılım Sınama Final Proesi\YazilimSinamaFinalProje\obj\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\bin\Debug\YazilimSinamaFinalProje.exe.config
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\bin\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\bin\Debug\YazilimSinamaFinalProje.pdb
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\bin\Debug\Dapper.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\bin\Debug\MaterialSkin.dll
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\bin\Debug\Dapper.xml
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.Scrum.resources
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.TeknikKart.resources
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.Properties.Resources.resources
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.csproj.CopyComplete
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.exe
+C:\Users\emret\Desktop\Yazılım Sınama Final\Proje\ScrumTaskUygulaması\obj\Debug\YazilimSinamaFinalProje.pdb

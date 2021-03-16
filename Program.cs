@@ -16,7 +16,7 @@ namespace YazilimSinamaFinalProje
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Scrum());
+            Application.Run(new TeknikKart());
         }
     }
 }
